@@ -1,0 +1,21 @@
+generar antes cuando es muy lejano.
+revisar en el historial.
+verificar si sigue saliendo el error
+Migración VB6 to VB.NET
+/No Migrar- se puede intervención humana.
+
+212802
+
+Comercial/Ventas/Pedidos/Comprometer/Compromisos
+Se cierra el requerimiento brindando solución donde ya aparece el símbolo de ajustar la ventana. Además, de los iconos de los botones de subir y bajar en la pestaña de resultado
+Se realiza pruebas en la máquina .209 y queda funcionando correctamente.
+
+
+?/Acerca de
+Se cierra el caso brindando solución donde se agregan funcionalidades de direccionamiento 
+en la forma frmStartup para que aperture la forma frmInfoLicencia cuando se le da click en el label de Licenciamiento.
+También, cuando se da click en los labels de lblConexion o lblVersion se aperture la forma frmVersiones.
+Por otro lado, se agrega en el diseño el cursor de mano a los labels (lblConexion, lblUltimoParche, lblLicencia y lblVersion).
+Se realizan pruebas en la máquina 209 y queda funcionando correctamente.
+
+Se cierra el requerimiento dado que se han  
